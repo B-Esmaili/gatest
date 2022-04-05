@@ -12,6 +12,7 @@ export function Ui(props: UiProps) {
     <StyledUi>
       <h1>Welcome to Ui!</h1>
       Dummy changhe
+      Another Dummy Change
     </StyledUi>
   );
 }
